@@ -22,7 +22,7 @@ hr{
 
 .number
 {
-	width: 60%;
+	width:20%;
 }
 .number_display
 {
@@ -33,4 +33,8 @@ hr{
 {
 	display: inline-block;
 	margin-left: 20px;
+}
+
+.space{
+	margin-top: 50px;
 }

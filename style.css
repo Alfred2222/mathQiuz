@@ -17,4 +17,8 @@ body
 		color:cornsilk;
 	}
 
-	
+	#num_display
+{
+	letter-spacing: 5px;
+}
+
